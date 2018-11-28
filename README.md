@@ -1,5 +1,7 @@
 # d3-geo-projection
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-geo-projection)](https://dev.azure.com/d3/d3/_build/definition?definitionId=18)
+
 Extended geographic projections for [d3-geo](https://github.com/d3/d3-geo). See [Command-Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c) for an introduction.
 
 ## Installing
